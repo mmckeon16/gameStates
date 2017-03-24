@@ -1,0 +1,21 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <script language="javascript" type="text/javascript" src="libraries/phaser.js"></script>
+  <script type="text/javascript" src = "phaser.min.js"></script>
+  <script type="text/javascript" src = "js/boot.js"></script>
+  <script type="text/javascript" src = "js/load.js"></script>
+  <script type="text/javascript" src = "js/menu.js"></script>
+  <script type="text/javascript" src = "js/play.js"></script>
+  <script type="text/javascript" src = "js/win.min.js"></script>
+  <script type="text/javascript" src = "js/game.min.js"></script>
+
+  <script language="javascript" type="text/javascript" src="testT.js"></script>
+  <!-- this line removes any default padding and style. you might only need one of these values set. -->
+  <style> body {padding: 0; margin: 0;} </style>
+</head>
+
+<body>
+	<div id ="gameDiv"> </div>
+</body>
+</html>
